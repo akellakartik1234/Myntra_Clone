@@ -1,3 +1,6 @@
+"scripts": {
+  "build": "vite build"
+}
 {
   "name": "kgcoding-myntra-backend",
   "version": "1.0.0",
